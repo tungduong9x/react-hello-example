@@ -1,4 +1,4 @@
-# react-example
+# react-hello
 React – A JavaScript library for building user interfaces
 
 Install React from Terminal:
